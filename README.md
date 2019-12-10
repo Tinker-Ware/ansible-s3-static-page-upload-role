@@ -7,3 +7,8 @@ These variables are set by default to work with our Homepage repository on the b
 - `branch`: repository's branch where the code is located.
 - `bucket_name`: name of the bucket to which the static files will be uploaded.
 - `aws_region`: region where the bucket is located.
+
+# Notes
+For this role to work, you must have set the next environment variables with their corresponding values:
+- AWS_ACCESS_KEY
+- AWS_SECRET_KEY
