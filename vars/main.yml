@@ -1,0 +1,5 @@
+## These are the variables included in the defaults file
+# repo: git@github.com:AAlvz/homepage.git
+# branch: development
+# bucket_name: tinkerware.io
+# aws_region: us-east-1
